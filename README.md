@@ -1,6 +1,7 @@
 # CAGE2
 R Code Associated with the manuscript "Differential Resource Consumption in Leaf Litter Mixtures by Native and Non-Native Amphipods"
-Chelsea J. Little & Florian Altermatt
+
+Authors: Chelsea J. Little & Florian Altermatt
 
 Data will be linked (Dryad) once the manuscript is published.
 
